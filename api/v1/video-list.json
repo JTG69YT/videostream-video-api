@@ -39,25 +39,11 @@
           "title": "Minä Seinäjoella"
         },
         {
-          "description": "Current Location On Google Map Tutorial: In This Video, You Will Learn How to Get Current Location On Google Map in Android Studio 3.6.2.",
-          "video_url": "http://videos.jesunmaailma.tk/GoogleMap.mp4",
-          "author": "Android Coding",
-          "thumbnail_url": "http://i.ytimg.com/vi/p0PoKEPI65o/maxresdefault.jpg",
-          "title": "How to Get Current Location On Google Map in Android Studio | CurrentLocationOnMap | Android Coding"
-        },
-        {
-          "description": "Tablayout Tutorial : In This Video, You Will Learn How to Integrate Tablayout With Viewpager in Android Studio.",
-          "video_url": "http://videos.jesunmaailma.tk/TabLayout.mp4",
-          "author": "Android Coding",
-          "thumbnail_url": "http://i.ytimg.com/vi/NHBO87ZxGgs/maxresdefault.jpg",
-          "title": "How to Implement Tablayout With Viewpager in Android Studio | Tablayout+Viewpager | Android Coding"
-        },
-        {
-          "description": "Android Coding näyttää, kuinka ohjelmoidaan sovellus, jolla pystyy näyttämään emojin/emojeita TextView-komponentissa",
-          "video_url": "http://videos.jesunmaailma.tk/Emoji.mp4",
-          "author": "Android Coding",
-          "thumbnail_url": "http://i.ytimg.com/vi/VRdPSuvAwXw/maxresdefault.jpg",
-          "title": "How To Implement Emoji in Android Studio | Emoji | Android Coding"
+          "description": "Toinen näyttö.",
+          "video_url": "http://videos.jesunmaailma.tk/SecondScreen.mp4",
+          "author": "JTG69_YT",
+          "thumbnail_url": "http://images.jesunmaailma.tk/logo-prod.png",
+          "title": "Toinen näyttö"
         },
         {
           "description": "BadlandsChugs röyhtäisee hänen uusimmassa videossa.",
