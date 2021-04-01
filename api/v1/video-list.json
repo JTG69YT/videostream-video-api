@@ -4,57 +4,15 @@
       "name": "Movies",
       "videos": [
         {
-          "description": "FinnPlace-sovelluksen esittely",
-          "video_url": "http://videos.jesunmaailma.tk/SovelluksenEsittely.mp4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://images.jesunmaailma.tk/SovelluksenEsittely.jpg",
-          "title": "FinnPlace-sovelluksen esittely (EI julkinen)"
-        },
-        {
-          "description": "Shimmer-demon suunnittelu ja toteutus",
-          "video_url": "http://videos.jesunmaailma.tk/ShimmerinKoodaus.mp4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://images.jesunmaailma.tk/ShimmerinKoodaus.png",
-          "title": "Shimmerin koodaus itse (EI julkinen)"
-        },
-        {
-          "description": "Chromecastin asennus",
-          "video_url": "http://videos.jesunmaailma.tk/Chromecast.mp4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://images.jesunmaailma.tk/Chromecast.jpg",
-          "title": "Chromecastin asennus"
-        },
-        {
-          "description": "Näyttökaappaus",
-          "video_url": "http://videos.jesunmaailma.tk/ScreenCapture.mp4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://images.jesunmaailma.tk/ScreenCapture.jpg",
-          "title": "Näyttökaappaus"
-        },
-        {
-          "description": "Olin lenkillä jossain, en kerro missä.",
-          "video_url": "http://videos.jesunmaailma.tk/IAmInSeinajoki.mp4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://images.jesunmaailma.tk/logo-prod.png",
-          "title": "Minä Seinäjoella"
-        },
-        {
-          "description": "Toinen näyttö.",
-          "video_url": "http://videos.jesunmaailma.tk/SecondScreen.mp4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://images.jesunmaailma.tk/logo-prod.png",
-          "title": "Toinen näyttö"
-        },
-        {
           "description": "SinäTuubaPaskaa kokonaisuudessaan.",
-          "video_url": "http://videos.jesunmaailma.tk/STPSoosi.mp4",
+          "video_code": "L9Elu1tkwCc",
           "author": "Tapaus SES",
           "thumbnail_url": "http://i.ytimg.com/vi/L9Elu1tkwCc/maxresdefault.jpg",
           "title": "SinäTuubaPaska - Ihan tavallista mainospaskaa"
         },
         {
           "description": "BadlandsChugs röyhtäisee hänen uusimmassa videossa.",
-          "video_url": "http://videos.jesunmaailma.tk/BadlandsChugsUusi.mp4",
+          "video_code": "hgQ7cE4C7c4",
           "author": "BadlandsChugs",
           "thumbnail_url": "http://i.ytimg.com/vi/hgQ7cE4C7c4/hqdefault.jpg",
           "title": "Badlands Chugs 2 Liters of UK's Vimto Fizzy Drink"
