@@ -32,11 +32,11 @@
           "title": "Mikä saa ihmisen tappamaan?"
         },
         {
-          "description": "Tässä videossa minä kehitän Shimmer-demon tutoriaalin mukaan.",
-          "video_code": "6AdG2nLVEF4",
-          "author": "JTG69_YT",
-          "thumbnail_url": "http://i.ytimg.com/vi/6AdG2nLVEF4/maxresdefault.jpg",
-          "title": "Shimmer-demon koodaus"
+          "description": "Shimmer Effect Tutorial : In This Video, You Will Learn How to Integrate Shimmer Effect With RecyclerView Using Volley in Android Studio.",
+          "video_code": "ENIyFNcxf_M",
+          "author": "Android Coding",
+          "thumbnail_url": "http://i.ytimg.com/vi/ENIyFNcxf_M/maxresdefault.jpg",
+          "title": "How to Implement Shimmer Effect With RecyclerView in Android Studio | ShimmerEffect | Android Coding"
         }
       ]
     }
