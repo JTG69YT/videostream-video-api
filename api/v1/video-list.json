@@ -39,13 +39,6 @@
           "title": "How to Implement Shimmer Effect With RecyclerView in Android Studio | ShimmerEffect | Android Coding"
         },
         {
-          "description": "Shopping cart demo.",
-          "video_code": "SfiDWNZQk6M",
-          "author": "EDMT Dev",
-          "thumbnail_url": "http://i.ytimg.com/vi/SfiDWNZQk6M/maxresdefault.jpg",
-          "title": "Android Development Tutorial - Build Cart with Firebase part #1"
-        },
-        {
           "description": "BadlandsChugs juo kaksi litraa Pepsi Mangoa tässä videossa.",
           "video_code": "PsegKLgTv4M",
           "author": "BadlandsChugs",
@@ -57,7 +50,7 @@
             "video_code": "zfYC9iLOkRI",
             "author": "Plainrock124",
             "thumbnail_url": "http://i.ytimg.com/vi/zfYC9iLOkRI/maxresdefault.jpg",
-            "title": "exposing my past"
+            "title": "exposing my past..."
         }
       ]
     }
