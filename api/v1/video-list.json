@@ -46,18 +46,25 @@
           "title": "THIS IS BRAND NEW FOLKS! | 2 Liter, Pepsi Mango, Das Boot Chug!"
         },
         {
-          "description": "Plainrock124 kertoo hänen menneisyydestään.",
-          "video_code": "zfYC9iLOkRI",
-          "author": "Plainrock124",
-          "thumbnail_url": "http://i.ytimg.com/vi/zfYC9iLOkRI/maxresdefault.jpg",
-          "title": "exposing my past..."
+            "description": "Plainrock124 kertoo hänen menneisyydestään",
+            "video_code": "zfYC9iLOkRI",
+            "author": "Plainrock124",
+            "thumbnail_url": "http://i.ytimg.com/vi/zfYC9iLOkRI/maxresdefault.jpg",
+            "title": "exposing my past..."
         },
         {
-          "description": "Hang with our community on Discord! https://johnhammond.org/discord​\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010​\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010​\nGitHub: https://github.com/JohnHammond​\nSite: http://www.johnhammond.org​\nTwitter: https://twitter.com/_johnhammond",
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "5YweYcXoch8",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/5YweYcXoch8/maxresdefault.jpg",
           "title": "Plundering AWS S3 Buckets - HackTheBox"
+        },
+        {
+            "description": "Tässä videossa näytetään, kuinka kirjoitetaan Android-sovellus joka käyttää Facebookin kirjastoa nimeltään Shimmer.\n\nMusiikkina on käytetty: Wishes - Roa",
+            "video_code": "vIFdGd8rRxw",
+            "author": "JTG69_YT",
+            "thumbnail_url": "http://i.ytimg.com/vi/vIFdGd8rRxw/maxresdefault.jpg",
+            "title": "Shimmer-sovelluksen ohjelmointi ja testaus"
         }
       ]
     }
