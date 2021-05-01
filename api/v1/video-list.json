@@ -72,6 +72,13 @@
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/bKRNH8vO67g/maxresdefault.jpg",
           "title": "HTA JScript to PowerShell - Novter Malware Analysis"
+        },
+        {
+          "description": "Google docs revolutionized word documents with its collaborative features, but actually creating your own Google docs is not that hard. In this video I will show you how to create a complete Google Docs clone from scratch using ReactJS, Socket.io, MongoDB, and QuillJS.",
+          "video_code": "iRaelG7v0OU",
+          "author": "Web Dev Simplified",
+          "thumbnail_url": "http://i.ytimg.com/vi/iRaelG7v0OU/maxresdefault.jpg",
+          "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB"
         }
       ]
     }
