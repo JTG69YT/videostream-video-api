@@ -79,6 +79,20 @@
           "author": "Web Dev Simplified",
           "thumbnail_url": "http://i.ytimg.com/vi/iRaelG7v0OU/maxresdefault.jpg",
           "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB"
+        },
+        {
+          "description": "Tässä videossa tehdään kuvanmuokkaussovellus, jonka voitte ladata alta:\nhttps://finnplace.ml/image-editor\n\nMusiikkina on jälleen kerran käytetty:\nWishes - Roa",
+          "video_code": "BHcUIiBwBys",
+          "author": "JTG69_YT",
+          "thumbnail_url": "http://i.ytimg.com/vi/BHcUIiBwBys/maxresdefault.jpg",
+          "title": "Kuvaeditorin ohjelmointi ja testaus"
+        },
+        {
+          "description": "Learn how to create a full-stack web app using the MERN stack. The MERN stack is MongoDB, Express, React, and Node.js.\n\nAlso, learn how to use MongoDB Realm to convert the backend to serverless and host the entire thing for free in the cloud. You will even learn how to host the React frontend for free.",
+          "video_code": "mrHNSanmqQ4",
+          "author": "freeCodeCamp.org",
+          "thumbnail_url": "http://i.ytimg.com/vi/mrHNSanmqQ4/maxresdefault.jpg",
+          "title": "MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm"
         }
       ]
     }
