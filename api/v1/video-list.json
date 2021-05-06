@@ -100,6 +100,13 @@
           "author": "Android Coding",
           "thumbnail_url": "http://i.ytimg.com/vi/_hqHA-YSF98/maxresdefault.jpg",
           "title": "How to Implement Dark Mode in Android Studio | DarkMode | Android Coding"
+        },
+        {
+          "description": "John Hammond yrittää päästä roottina sisään käyttämällä HackTheBox-palvelua.",
+          "video_code": "vR5IfqjX6dY",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/vR5IfqjX6dY/maxresdefault.jpg",
+          "title": "HTB Cyber Apocalypse - cURL As a Service"
         }
       ]
     }
