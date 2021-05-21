@@ -8,175 +8,200 @@
           "video_code": "L9Elu1tkwCc",
           "author": "Tapaus SES",
           "thumbnail_url": "http://i.ytimg.com/vi/L9Elu1tkwCc/maxresdefault.jpg",
-          "title": "SinäTuubaPaska - Ihan tavallista mainospaskaa"
+          "title": "SinäTuubaPaska - Ihan tavallista mainospaskaa",
+          "publish_date": "26.3.2021"
         },
         {
           "description": "BadlandsChugs röyhtäisee hänen uusimmassa videossa.",
           "video_code": "hgQ7cE4C7c4",
           "author": "BadlandsChugs",
           "thumbnail_url": "http://i.ytimg.com/vi/hgQ7cE4C7c4/hqdefault.jpg",
-          "title": "Badlands Chugs 2 Liters of UK's Vimto Fizzy Drink"
+          "title": "Badlands Chugs 2 Liters of UK's Vimto Fizzy Drink",
+          "publish_date": ""
         },
         {
           "description": "Biisonimafian video liittyen pääsiäiseen.",
           "video_code": "7F0LAsss0t4",
           "author": "Biisonimafia",
           "thumbnail_url": "http://i.ytimg.com/vi/7F0LAsss0t4/maxresdefault.jpg",
-          "title": "Pääsiäispupu - Biisonimafia"
+          "title": "Pääsiäispupu - Biisonimafia",
+          "publish_date": "31.3.2021"
         },
         {
           "description": "Ville Mäkipelto kertoo mikä saa ihmisen tappamaan",
           "video_code": "X66bs_L7mF8",
           "author": "Ville Mäkipelto",
           "thumbnail_url": "http://i.ytimg.com/vi/X66bs_L7mF8/maxresdefault.jpg",
-          "title": "Mikä saa ihmisen tappamaan?"
+          "title": "Mikä saa ihmisen tappamaan?",
+          "publish_date": "1.4.2021"
         },
         {
           "description": "Shimmer Effect Tutorial : In This Video, You Will Learn How to Integrate Shimmer Effect With RecyclerView Using Volley in Android Studio.",
           "video_code": "ENIyFNcxf_M",
           "author": "Android Coding",
           "thumbnail_url": "http://i.ytimg.com/vi/ENIyFNcxf_M/maxresdefault.jpg",
-          "title": "How to Implement Shimmer Effect With RecyclerView in Android Studio | ShimmerEffect | Android Coding"
+          "title": "How to Implement Shimmer Effect With RecyclerView in Android Studio | ShimmerEffect | Android Coding",
+          "publish_date": "11.9.2020 (Ensiesitys)"
         },
         {
           "description": "BadlandsChugs juo kaksi litraa Pepsi Mangoa tässä videossa.",
           "video_code": "PsegKLgTv4M",
           "author": "BadlandsChugs",
           "thumbnail_url": "http://i.ytimg.com/vi/PsegKLgTv4M/maxresdefault.jpg",
-          "title": "THIS IS BRAND NEW FOLKS! | 2 Liter, Pepsi Mango, Das Boot Chug!"
+          "title": "THIS IS BRAND NEW FOLKS! | 2 Liter, Pepsi Mango, Das Boot Chug!",
+          "publish_date": "4.4.2021"
         },
         {
           "description": "Plainrock124 kertoo hänen menneisyydestään.",
           "video_code": "zfYC9iLOkRI",
           "author": "Plainrock124",
           "thumbnail_url": "http://i.ytimg.com/vi/zfYC9iLOkRI/maxresdefault.jpg",
-          "title": "exposing my past..."
+          "title": "exposing my past...",
+          "publish_date": "16.4.2021"
         },
         {
           "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "5YweYcXoch8",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/5YweYcXoch8/maxresdefault.jpg",
-          "title": "Plundering AWS S3 Buckets - HackTheBox"
+          "title": "Plundering AWS S3 Buckets - HackTheBox",
+          "publish_date": "24.4.2021 (Ensiesitys)"
         },
         {
           "description": "Tässä videossa näytetään, kuinka kirjoitetaan Android-sovellus joka käyttää Facebookin kirjastoa nimeltään Shimmer.\n\nMusiikkina on käytetty: Wishes - Roa",
           "video_code": "vIFdGd8rRxw",
           "author": "JTG69_YT",
           "thumbnail_url": "http://i.ytimg.com/vi/vIFdGd8rRxw/maxresdefault.jpg",
-          "title": "Shimmer-sovelluksen ohjelmointi ja testaus"
+          "title": "Shimmer-sovelluksen ohjelmointi ja testaus",
+          "publish_date": "25.4.2021"
         },
         {
           "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "bKRNH8vO67g",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/bKRNH8vO67g/maxresdefault.jpg",
-          "title": "HTA JScript to PowerShell - Novter Malware Analysis"
+          "title": "HTA JScript to PowerShell - Novter Malware Analysis",
+          "publish_date": "23.4.2021 (Ensiesitys)"
         },
         {
           "description": "Google docs revolutionized word documents with its collaborative features, but actually creating your own Google docs is not that hard. In this video I will show you how to create a complete Google Docs clone from scratch using ReactJS, Socket.io, MongoDB, and QuillJS.",
           "video_code": "iRaelG7v0OU",
           "author": "Web Dev Simplified",
           "thumbnail_url": "http://i.ytimg.com/vi/iRaelG7v0OU/maxresdefault.jpg",
-          "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB"
+          "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB",
+          "publish_date": "20.4.2021"
         },
         {
           "description": "Tässä videossa tehdään kuvanmuokkaussovellus, jonka voitte ladata alta: (VAIN Androidille!)\nhttps://finnplace.ml/image-editor\n\nMusiikkina on jälleen kerran käytetty:\nWishes - Roa\n\nLähdevideona toimii:\nhttps://www.youtube.com/watch?v=_hqHA-YSF98",
           "video_code": "BHcUIiBwBys",
           "author": "JTG69_YT",
           "thumbnail_url": "https://i.ytimg.com/vi/BHcUIiBwBys/maxresdefault.jpg",
-          "title": "Kuvaeditorin ohjelmointi ja testaus"
+          "title": "Kuvaeditorin ohjelmointi ja testaus",
+          "publish_date": "2.5.2021"
         },
         {
           "description": "Learn how to create a full-stack web app using the MERN stack. The MERN stack is MongoDB, Express, React, and Node.js.\n\nAlso, learn how to use MongoDB Realm to convert the backend to serverless and host the entire thing for free in the cloud. You will even learn how to host the React frontend for free.",
           "video_code": "mrHNSanmqQ4",
           "author": "freeCodeCamp.org",
           "thumbnail_url": "http://i.ytimg.com/vi/mrHNSanmqQ4/maxresdefault.jpg",
-          "title": "MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm"
+          "title": "MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm",
+          "publish_date": "28.4.2021"
         },
         {
           "description": "In this video, you will learn how to implement dark mode in Android Studio.\n\nAll File :\n== XML File ==\n1) res/layout/activity_main.xml\n== Java File ==\n1) java/MainActivity.java\n\nTable Of Content :\n00:27​ - Preview\n00:57​ - Project Creation\n01:12​ - XML Code\n03:05​ - Java Code\n07:15​ - Output\n\nPresented By : Android Coding\nBackground Music By : BreakingCopyright\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ/join\n\n​Download Apk Link :\nhttps://drive.google.com/file/d/1yu6bC9OYaNcqgNi6DjcFj652CvtQjrk6/view?usp=sharing\n\n​All My App Links :\n1) QR Scanner App : http://bit.ly/ScannerAndGenerator\n​2) Colors Code App : http://bit.ly/ColorsCode\n​3) Age Calculator App : http://bit.ly/AndroidAgeCalculator\n\n​Enjoy & Stay Connected With Us!\n► Subscribe To Android Coding : http://bit.ly/Youtube-AndroidCoding\n​► Like Us On Facebook : http://bit.ly/Facebook-AndroidCoding\n​► Follow Us On Instagram : http://bit.ly/Instagram-AndroidCoding\n​► Follow Us On Twitter : http://bit.ly/Twitter-AndroidCoding_​\n\n\n#DarkMode​ #AndroidTutorial​ #12H1r",
           "video_code": "_hqHA-YSF98",
           "author": "Android Coding",
           "thumbnail_url": "http://i.ytimg.com/vi/_hqHA-YSF98/maxresdefault.jpg",
-          "title": "How to Implement Dark Mode in Android Studio | DarkMode | Android Coding"
+          "title": "How to Implement Dark Mode in Android Studio | DarkMode | Android Coding",
+          "publish_date": "2.5.2021 (Ensiesitys)"
         },
         {
           "description": "Hungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQC\n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "vR5IfqjX6dY",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/vR5IfqjX6dY/maxresdefault.jpg",
-          "title": "HTB Cyber Apocalypse - cURL As a Service"
+          "title": "HTB Cyber Apocalypse - cURL As a Service",
+          "publish_date": "6.5.2021 (Ensiesitys)"
         },
         {
           "description": "Welcome to the series finale (probably) of the Bootleg Office Saga! I was recently sent a genuine copy of Office 2010 by a viewer, and today we're going to use it to compare with the 2 bootlegs.",
           "video_code": "rTM6dDiFS88",
           "author": "Michael MJD",
           "thumbnail_url": "http://i.ytimg.com/vi/rTM6dDiFS88/maxresdefault.jpg",
-          "title": "The Bootleg Office Saga Finale - Comparing To A Real Copy + Product Key Status"
+          "title": "The Bootleg Office Saga Finale - Comparing To A Real Copy + Product Key Status",
+          "publish_date": "3.5.2021"
         },
         {
           "description": "Hidden Agenda - Full Game Gameplay Walkthrough (With Good / Best Ending)\n\nHidden Agenda is a new crime thriller from Supermassive Games and published by Sony Interactive Entertainment.\n\nThe story follows the hunt for the infamous \"Trapper\" killer. You play as two different characters throughout the story, Becky who is a detective and Felicity, who is a district attorney. The game is unique in the sense that it's a movie, but incorporates gameplay elements into it. This video is a full walkthrough of the game, with the good/best ending, no unnecessary commentary and on the PS4 Pro.\n\nYou will also not be using the regular PS4 controller to play this game, it's all done through PlayLink. PlayLink is a new way for family & friends to play games together together, as it uses smartphones and tablets as controllers.",
           "video_code": "y9FtmpCu4QI",
           "author": "HarryNinetyFour",
           "thumbnail_url": "http://i.ytimg.com/vi/y9FtmpCu4QI/maxresdefault.jpg",
-          "title": "Hidden Agenda - Full Game Gameplay Walkthrough (With Good / Best Ending)"
+          "title": "Hidden Agenda - Full Game Gameplay Walkthrough (With Good / Best Ending)",
+          "publish_date": "25.11.2017"
         },
         {
           "description": "In this video, you will learn how to implement open source statements in Android Studio.\n\nTimestamps:\n00:00 - Intro\n03:25 - XML Code\n14:11 - Java Code\n28:32 - Output\n\nHere is the download link:\nhttps://finnplace.ml/android-dev-simplified\n\nCheck out my social media accounts:\nInstagram: https://www.instagram.com/jtg69_yt\nTwitter: https://twitter.com/JTG69_YT\nTikTok: https://www.tiktok.com/@jtg69_yt\nTwitch: https://www.twitch.tv/jtg69_yt\n\nNote! This is the first tutorial in this channel. This channel is dedicated to Android tutorials.",
           "video_code": "Q5Pz_PuHtlM",
           "author": "Android Dev Simplified",
           "thumbnail_url": "http://i.ytimg.com/vi/Q5Pz_PuHtlM/maxresdefault.jpg",
-          "title": "How to Implement Open Source Statements in Android Studio | OSSDemo | Android Dev Simplified"
+          "title": "How to Implement Open Source Statements in Android Studio | OSSDemo | Android Dev Simplified",
+          "publish_date": "13.5.2021"
         },
         {
           "description": "In this video, you will learn how to implement settings in Android Studio.\n\nTimestamps:\n00:00 - Intro\n01:48 - XML Code\n05:34 - Java Code\n41:22 - Output\n\nCheck out my social media accounts:\nInstagram: https://www.instagram.com/jtg69_yt\nTwitter: https://twitter.com/JTG69_YT\nTikTok: https://www.tiktok.com/@jtg69_yt\nTwitch: https://www.twitch.tv/jtg69_yt",
           "video_code": "asFXj67ycis",
           "author": "Android Dev Simplified",
           "thumbnail_url": "http://i.ytimg.com/vi/asFXj67ycis/maxresdefault.jpg",
-          "title": "How to Implement Settings in Android Studio | Settings | Android Dev Simplified"
+          "title": "How to Implement Settings in Android Studio | Settings | Android Dev Simplified",
+          "publish_date": "14.5.2021"
         },
         {
           "description": "Moving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl\n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "WmCioU9F2_8",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/WmCioU9F2_8/maxresdefault.jpg",
-          "title": "SQLite Blind SQL Injection - HackTheBox Cyber Apocalypse CTF"
+          "title": "SQLite Blind SQL Injection - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "10.5.2021 (Ensiesitys)"
         },
         {
           "description": "Moving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammonn\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "ySJwlMsFbco",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/ySJwlMsFbco/maxresdefault.jpg",
-          "title": "XML Object Exfiltration - HackTheBox Cyber Apocalypse CTF \"E. Tree\""
+          "title": "XML Object Exfiltration - HackTheBox Cyber Apocalypse CTF \"E. Tree\"",
+          "publish_date": "10.5.2021 (Ensiesitys)"
         },
         {
           "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon:\nhttps://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "7kmttmmlygc",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/7kmttmmlygc/maxresdefault.jpg",
-          "title": "Blind MongoDB NoSQL Injection - HackTheBox Cyber Apocalypse CTF"
+          "title": "Blind MongoDB NoSQL Injection - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "14.5.2021 (Ensiesitys)"
         },
         {
           "description": "What is the longest comment on YouTube? In this video, I try to find the longest comment ever, as well as test to see what the comment length limit is on YouTube. What is the longest YouTube comment? Find out here...\n\n© 2021 Timeworks Studios",
           "video_code": "PaXbKrRKmnk",
           "author": "Timeworks",
           "thumbnail_url": "http://i.ytimg.com/vi/PaXbKrRKmnk/maxresdefault.jpg",
-          "title": "What Is The LONGEST Comment On YouTube?"
+          "title": "What Is The LONGEST Comment On YouTube?",
+          "publish_date": "16.5.2021"
         },
         {
           "description": "Moving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
           "video_code": "NACzUg2z4aY",
           "author": "John Hammond",
           "thumbnail_url": "http://i.ytimg.com/vi/NACzUg2z4aY/maxresdefault.jpg",
-          "title": "IFrame Parent XSS - HackTheBox Cyber Apocalypse CTF"
+          "title": "IFrame Parent XSS - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "17.5.2021 (Ensiesitys)"
         },
         {
           "description": "EVER WANNA HAVE \"FUN\" ALL THE TIME?! WELL WHAT'S STOPPING YOU!?\n\nSubscribe Today! ► http://bit.ly/Markiplier\n\nPlay The Game ► https://www.indiedb.com/games/nsfw-not-a-simulator-for-working\n\nFollow my Instagram ► http://instagram.com/markipliergram\nFollow me on Twitter ► https://twitter.com/markiplier\nLike me on Facebook ► https://www.facebook.com/markiplier\n\nHorror Outro ► (Sorry, this outro song is not available. ☹️)\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
           "video_code": "cXYSlRwPfX0",
           "author": "Markiplier",
           "thumbnail_url": "http://i.ytimg.com/vi/cXYSlRwPfX0/maxresdefault.jpg",
-          "title": "I'M NOT TELLING YOU WHAT THE TITLE IS | N.S.F.W (Not a Simulator For Working)"
+          "title": "I'M NOT TELLING YOU WHAT THE TITLE IS | N.S.F.W (Not a Simulator For Working)",
+          "publish_date": "15.9.2016"
         }
       ]
     }
