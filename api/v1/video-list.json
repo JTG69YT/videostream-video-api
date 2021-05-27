@@ -205,27 +205,27 @@
         },
         {
           "description": "Obligatory disclaimer to appease the vocal minority: this is NOT a Cloudflare (lowercase F) vuln, this is a CTF challenge showcasing a Content Security Policy bypass through Cloudflare (lowercase F again)'s CDN.\n\nMoving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
-          "video_code": "",
-          "author": "",
-          "thumbnail_url": "",
+          "video_code": "uU_tvQPCBUo",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/uU_tvQPCBUo/maxresdefault.jpg",
           "title": "Cloudflare CDN CSP - XSS Bypass / HackTheBox Cyber Apocalypse CTF",
-          "publish_date": ""
+          "publish_date": "25.5.2021 (Ensiesitys)"
         },
         {
-          "description": "",
-          "video_code": "",
-          "author": "",
-          "thumbnail_url": "",
-          "title": "",
-          "publish_date": ""
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "A4US4Az5nJE",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/A4US4Az5nJE/maxresdefault.jpg",
+          "title": "Nodejs Nunjucks Template Injection - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "26.5.2021"
         },
         {
-          "description": "",
-          "video_code": "",
-          "author": "",
-          "thumbnail_url": "",
-          "title": "",
-          "publish_date": ""
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "zicT9PI_m1o",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/zicT9PI_m1o/maxresdefault.jpg",
+          "title": "Phishing Document \"Invitation\" - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "27.5.2021"
         }
       ]
     }
