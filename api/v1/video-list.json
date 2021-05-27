@@ -202,6 +202,30 @@
           "thumbnail_url": "http://i.ytimg.com/vi/cXYSlRwPfX0/maxresdefault.jpg",
           "title": "I'M NOT TELLING YOU WHAT THE TITLE IS | N.S.F.W (Not a Simulator For Working)",
           "publish_date": "15.9.2016"
+        },
+        {
+          "description": "Obligatory disclaimer to appease the vocal minority: this is NOT a Cloudflare (lowercase F) vuln, this is a CTF challenge showcasing a Content Security Policy bypass through Cloudflare (lowercase F again)'s CDN.\n\nMoving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "",
+          "author": "",
+          "thumbnail_url": "",
+          "title": "Cloudflare CDN CSP - XSS Bypass / HackTheBox Cyber Apocalypse CTF",
+          "publish_date": ""
+        },
+        {
+          "description": "",
+          "video_code": "",
+          "author": "",
+          "thumbnail_url": "",
+          "title": "",
+          "publish_date": ""
+        },
+        {
+          "description": "",
+          "video_code": "",
+          "author": "",
+          "thumbnail_url": "",
+          "title": "",
+          "publish_date": ""
         }
       ]
     }
