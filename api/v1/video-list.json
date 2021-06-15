@@ -250,6 +250,14 @@
           "thumbnail_url": "http://i.ytimg.com/vi/t1UbMrwjIqc/maxresdefault.jpg",
           "title": "macOS Big Sur -sooloilua",
           "publish_date": "7.6.2021"
+        },
+        {
+          "description": "Welcome game developers to another episode of Firecasts. In this episode, Developer Advocate Patrick Martin will give a tutorial on how you can add Firestore to your Unity game.\n\nChapters:\n0:00 - Intro\n2:26 - Firestore Data Layout\n4:21 - Set Up Firebase\n7:10 - Write Data\n10:19 - Read Data\n15:03 - Wrap Up\n\nResources:\nChoose a database → https://goo.gle/37t4eJ9\nGetting Started video → https://goo.gle/3bparpN\nSecurity Rules → https://goo.gle/3iFPNsw\nLink (pricing) → https://goo.gle/3pU47zb\nLink (speed v reliability): https://goo.gle/3cEtPm4\n\nWatch more Firecasts for Firebase Developers → https://goo.gle/Firecasts\nSubscribe to Firebase → https://goo.gle/Firebase \n\n#Firecasts #Firebase #Unity",
+          "video_code": "b5h1bVGhuRk",
+          "author": "Firebase",
+          "thumbnail_url": "http://i.ytimg.com/vi/b5h1bVGhuRk/maxresdefault.jpg",
+          "title": "Adding Firestore to your Unity game - Firecasts",
+          "publish_date": "15.6.2021"
         }
       ]
     }
