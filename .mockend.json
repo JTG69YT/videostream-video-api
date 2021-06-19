@@ -1,14 +1,17 @@
 {
-    "Video": {
-        "description": "string",
-        "video_code": "string",
-        "author": "string",
-        "thumbnail_url": "string",
-        "title": "string",
-        "publish_date": "string",
-        "videos": "Videos[]"
-    },
-    "Videos": {
-        "video": "Video"
+  "Videos": [
+    {
+      "name": "Videos",
+      "videos": [
+        {
+            "description": "string",
+            "video_code": "string",
+            "author": "string",
+            "thumbnail_url": "string",
+            "title": "string",
+            "publish_date": "string"
+        }
+      ]
     }
+  ]
 }
