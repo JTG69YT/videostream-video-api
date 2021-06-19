@@ -1,17 +1,15 @@
 {
-  "categories": [
-    {
-      "name": "Videos",
-      "Videos": [
-        {
-            "description": "string",
-            "video_code": "string",
-            "author": "string",
-            "thumbnail_url": "string",
-            "title": "string",
-            "publish_date": "string"
-        }
-      ]
-    }
-  ]
+  "Video": {
+    "description": "string",
+    "video_code": "int",
+    "author": "boolean",
+    "thumbnail_url": "date",
+    "title": "string",
+    "publish_date": "string",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Video"
+  }
 }
