@@ -1,15 +1,11 @@
 {
   "Video": {
     "description": "string",
-    "video_code": "int",
-    "author": "boolean",
-    "thumbnail_url": "date",
+    "video_code": "string",
+    "author": "string",
+    "thumbnail_url": "string",
     "title": "string",
     "publish_date": "string",
     "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Video"
   }
 }
