@@ -1,8 +1,8 @@
 {
-  "Videos": [
+  "categories": [
     {
       "name": "Videos",
-      "videos": [
+      "Videos": [
         {
             "description": "string",
             "video_code": "string",
