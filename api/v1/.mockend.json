@@ -1,10 +1,17 @@
 {
-    "Videos": {
-        "description": "string",
-        "video_code": "string",
-        "author": "string",
-        "thumbnail_url": "string",
-        "title": "string",
-        "publish_date": "string"
+  "categories": [
+    {
+      "name": "string",
+      "videos": [
+        {
+          "description": "string",
+          "video_code": "string",
+          "author": "string",
+          "thumbnail_url": "string",
+          "title": "string",
+          "publish_date": "string"
+        }
+      ]
     }
+  ]
 }
