@@ -4,7 +4,183 @@
       "name": "Videos",
       "videos": [
         {
-          "description": "<p>In this video, you will learn how to implement open source statements in Android Studio.</p><p>Timestamps:</p> <p>00:00 - Intro</p> <p>03:25 - XML Code</p> <p>14:11 - Java Code</p> <p>28:32 - Output</p> <p>Here is the download link: <a href=\"https://finnplace.ml/android-dev-simplified\">https://finnplace.ml/android-dev-simplified</a></p> <p>Check out my social media accounts: Instagram: <a href=\"https://www.instagram.com/jtg69_yt\">https://www.instagram.com/jtg69_yt</a></p> <p>Twitter: <a href=\"https://twitter.com/JTG69_YT\">https://twitter.com/JTG69_YT</a></p> <p>TikTok: <a href=\"https://www.tiktok.com/@jtg69_yt\">https://www.tiktok.com/@jtg69_yt</a></p> <p>Twitch: <a href=\"https://www.twitch.tv/jtg69_yt\">https://www.twitch.tv/jtg69_yt</a></p> <p>Note! This is the first tutorial in this channel. This channel is dedicated to Android tutorials.</p>",
+          "description": "Tässä videossa mainokset ovat sotkettu ihan päin helvettiä.",
+          "video_code": "L9Elu1tkwCc",
+          "author": "Tapaus SES",
+          "thumbnail_url": "http://i.ytimg.com/vi/L9Elu1tkwCc/maxresdefault.jpg",
+          "title": "SinäTuubaPaska - Ihan tavallista mainospaskaa",
+          "publish_date": "26.3.2021"
+        },
+        {
+          "description": "Editoinnin alle pääsi tällä kertaa puolueiden vaalimainokset jotka ovat nyt ajankohtaisia.\n\nJätä kommentti YouTubessa painamalla \"YouTube\"-näppäintä.\nJaa kaverille kans :)\n\nEhkä seuraavaksi tulee sitä Kotihälytyspaskea sitte...\n\nParodia. Meme.",
+          "video_code": "kQBNIK7sQqM",
+          "author": "Tapaus SES",
+          "thumbnail_url": "http://i.ytimg.com/vi/kQBNIK7sQqM/maxresdefault.jpg",
+          "title": "SinäTuubaPaska - Poliittisesti tuunattuja vaalimainoksia",
+          "publish_date": "4.6.2021"
+        },
+        {
+          "description": "BadlandsChugs röyhtäisee hänen uusimmassa videossa.",
+          "video_code": "hgQ7cE4C7c4",
+          "author": "BadlandsChugs",
+          "thumbnail_url": "http://i.ytimg.com/vi/hgQ7cE4C7c4/hqdefault.jpg",
+          "title": "Badlands Chugs 2 Liters of UK's Vimto Fizzy Drink",
+          "publish_date": "14.2.2021"
+        },
+        {
+          "description": "Biisonimafian video liittyen pääsiäiseen.",
+          "video_code": "7F0LAsss0t4",
+          "author": "Biisonimafia",
+          "thumbnail_url": "http://i.ytimg.com/vi/7F0LAsss0t4/maxresdefault.jpg",
+          "title": "Pääsiäispupu - Biisonimafia",
+          "publish_date": "31.3.2021"
+        },
+        {
+          "description": "Ville Mäkipelto kertoo mikä saa ihmisen tappamaan",
+          "video_code": "X66bs_L7mF8",
+          "author": "Ville Mäkipelto",
+          "thumbnail_url": "http://i.ytimg.com/vi/X66bs_L7mF8/maxresdefault.jpg",
+          "title": "Mikä saa ihmisen tappamaan?",
+          "publish_date": "1.4.2021"
+        },
+        {
+          "description": "Shimmer Effect Tutorial : In This Video, You Will Learn How to Integrate Shimmer Effect With RecyclerView Using Volley in Android Studio.",
+          "video_code": "ENIyFNcxf_M",
+          "author": "Android Coding",
+          "thumbnail_url": "http://i.ytimg.com/vi/ENIyFNcxf_M/maxresdefault.jpg",
+          "title": "How to Implement Shimmer Effect With RecyclerView in Android Studio | ShimmerEffect | Android Coding",
+          "publish_date": "11.9.2020 (Ensiesitys)"
+        },
+        {
+          "description": "BadlandsChugs juo kaksi litraa Pepsi Mangoa tässä videossa.",
+          "video_code": "PsegKLgTv4M",
+          "author": "BadlandsChugs",
+          "thumbnail_url": "http://i.ytimg.com/vi/PsegKLgTv4M/maxresdefault.jpg",
+          "title": "THIS IS BRAND NEW FOLKS! | 2 Liter, Pepsi Mango, Das Boot Chug!",
+          "publish_date": "4.4.2021"
+        },
+        {
+          "description": "Plainrock124 kertoo hänen menneisyydestään.",
+          "video_code": "zfYC9iLOkRI",
+          "author": "Plainrock124",
+          "thumbnail_url": "http://i.ytimg.com/vi/zfYC9iLOkRI/maxresdefault.jpg",
+          "title": "exposing my past...",
+          "publish_date": "16.4.2021"
+        },
+        {
+          "description": "Tänään näytän teille, miten asennatte Windows 95:n VirtualBoxiin.\n\nLinkit virtuaalikoneiden asennussivuille:\n\nVirtualBox:\nhttps://www.virtualbox.org/wiki/Downloads\n\nVMware:\nhttps://www.vmware.com/products/workstation-player.html\n\nWindows 95:n suomenkielinen ISO-tiedosto:\nhttps://winworldpc.com/download/c3904dc3-88c2-a570-4d11-c3a6e280947e\n\nMiten asennat MS-DOS 6.22:n imaget:\nhttps://www.youtube.com/watch?v=3eXFbT01TYo",
+          "video_code": "frYnwXaUysQ",
+          "author": "JTG69_YT",
+          "thumbnail_url": "http://i.ytimg.com/vi/frYnwXaUysQ/maxresdefault.jpg",
+          "title": "Miten asennat Windows 95:n VirtualBoxiin",
+          "publish_date": "29.6.2019"
+        },
+        {
+          "description": "Jouluaattona avasin sen ja tuli sellainen, jonka mä halusin. Sitten halusin näyttää teille sitä.\n\nP.S: Tabletista löytyy lisää tietoja tästä osoitteesta: http://www.estar.eu/products/tablets/estar-beauty-2-hd-quad-core",
+          "video_code": "LN-AVkUTPss",
+          "author": "JTG69_YT",
+          "thumbnail_url": "http://i.ytimg.com/vi/LN-AVkUTPss/hqdefault.jpg",
+          "title": "Tabletin asennus",
+          "publish_date": "26.12.2018"
+        },
+        {
+          "description": "An early build of Windows 11 has leaked out before Microsoft has even announced it (be sure to check out the official Microsoft Windows 11 Event on June 24th!). In this episode, Diana and I will be checking out all the new features and the new design in this episode, of OSFirstTimer!\n\nThanks to YouTubers Everything Windows and The System Explorer for letting me know about this leaked Windows 11 build. I was wrapped up in filming another OSFirstTimer video about Macromedia Flash Pro 8 at the time Windows 11 leaked and completely missed all the coverage on it, but luckily they drew my attention to it!\n\nHere are links to their channels:\n\nThe System Explorer - https://www.youtube.com/channel/UCIkLB9yw2cbIlNJRSnnzTfQ\nEverything Windows - https://m.youtube.com/channel/UCpBf2hhdbpcp6dUE5FJF9uQ",
+          "video_code": "UDiVCuGqvMc",
+          "author": "OSFirstTimer",
+          "thumbnail_url": "http://i.ytimg.com/vi/UDiVCuGqvMc/maxresdefault.jpg",
+          "title": "Mum Tries Out Leaked Windows 11 Build 21996.1 (2021)",
+          "publish_date": "18.6.2021"
+        },
+        {
+          "description": "Before Microsoft has released or even announced Windows 11 Diana has managed to destroy it.\n\nMicrosoft better make the final version of Windows 11 a little more secure if they want it to be safe from Diana!\n\nIf you haven't already seen the video where Diana tries out and explores this early build of Windows 11, be sure to check it out here:\n\nhttps://youtu.be/UDiVCuGqvMc",
+          "video_code": "mlRNrOuu0lQ",
+          "author": "OSFirstTimer",
+          "thumbnail_url": "http://i.ytimg.com/vi/mlRNrOuu0lQ/maxresdefault.jpg",
+          "title": "Mum Destroys Leaked Windows 11 Build 21996.1 (2021)",
+          "publish_date": "24.6.2021"
+        },
+        {
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "5YweYcXoch8",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/5YweYcXoch8/maxresdefault.jpg",
+          "title": "Plundering AWS S3 Buckets - HackTheBox",
+          "publish_date": "24.4.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Tässä videossa näytetään, kuinka kirjoitetaan Android-sovellus joka käyttää Facebookin kirjastoa nimeltään Shimmer.\n\nMusiikkina on käytetty: Wishes - Roa",
+          "video_code": "vIFdGd8rRxw",
+          "author": "JTG69_YT",
+          "thumbnail_url": "http://i.ytimg.com/vi/vIFdGd8rRxw/maxresdefault.jpg",
+          "title": "Shimmer-sovelluksen ohjelmointi ja testaus",
+          "publish_date": "25.4.2021"
+        },
+        {
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "bKRNH8vO67g",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/bKRNH8vO67g/maxresdefault.jpg",
+          "title": "HTA JScript to PowerShell - Novter Malware Analysis",
+          "publish_date": "23.4.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Google docs revolutionized word documents with its collaborative features, but actually creating your own Google docs is not that hard. In this video I will show you how to create a complete Google Docs clone from scratch using ReactJS, Socket.io, MongoDB, and QuillJS.",
+          "video_code": "iRaelG7v0OU",
+          "author": "Web Dev Simplified",
+          "thumbnail_url": "http://i.ytimg.com/vi/iRaelG7v0OU/maxresdefault.jpg",
+          "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB",
+          "publish_date": "20.4.2021"
+        },
+        {
+          "description": "Tässä videossa tehdään kuvanmuokkaussovellus, jonka voitte ladata alta: (VAIN Androidille!)\nhttps://finnplace.ml/image-editor\n\nMusiikkina on jälleen kerran käytetty:\nWishes - Roa\n\nLähdevideona toimii:\nhttps://www.youtube.com/watch?v=_hqHA-YSF98",
+          "video_code": "BHcUIiBwBys",
+          "author": "JTG69_YT",
+          "thumbnail_url": "https://i.ytimg.com/vi/BHcUIiBwBys/maxresdefault.jpg",
+          "title": "Kuvaeditorin ohjelmointi ja testaus",
+          "publish_date": "2.5.2021"
+        },
+        {
+          "description": "Learn how to create a full-stack web app using the MERN stack. The MERN stack is MongoDB, Express, React, and Node.js.\n\nAlso, learn how to use MongoDB Realm to convert the backend to serverless and host the entire thing for free in the cloud. You will even learn how to host the React frontend for free.",
+          "video_code": "mrHNSanmqQ4",
+          "author": "freeCodeCamp.org",
+          "thumbnail_url": "http://i.ytimg.com/vi/mrHNSanmqQ4/maxresdefault.jpg",
+          "title": "MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm",
+          "publish_date": "28.4.2021"
+        },
+        {
+          "description": "In this video, you will learn how to implement dark mode in Android Studio.\n\nAll File :\n== XML File ==\n1) res/layout/activity_main.xml\n== Java File ==\n1) java/MainActivity.java\n\nTable Of Content :\n00:27​ - Preview\n00:57​ - Project Creation\n01:12​ - XML Code\n03:05​ - Java Code\n07:15​ - Output\n\nPresented By : Android Coding\nBackground Music By : BreakingCopyright\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCUIF5MImktJLDWDKe5oTdJQ/join\n\n​Download Apk Link :\nhttps://drive.google.com/file/d/1yu6bC9OYaNcqgNi6DjcFj652CvtQjrk6/view?usp=sharing\n\n​All My App Links :\n1) QR Scanner App : http://bit.ly/ScannerAndGenerator\n​2) Colors Code App : http://bit.ly/ColorsCode\n​3) Age Calculator App : http://bit.ly/AndroidAgeCalculator\n\n​Enjoy & Stay Connected With Us!\n► Subscribe To Android Coding : http://bit.ly/Youtube-AndroidCoding\n​► Like Us On Facebook : http://bit.ly/Facebook-AndroidCoding\n​► Follow Us On Instagram : http://bit.ly/Instagram-AndroidCoding\n​► Follow Us On Twitter : http://bit.ly/Twitter-AndroidCoding_​\n\n\n#DarkMode​ #AndroidTutorial​ #12H1r",
+          "video_code": "_hqHA-YSF98",
+          "author": "Android Coding",
+          "thumbnail_url": "http://i.ytimg.com/vi/_hqHA-YSF98/maxresdefault.jpg",
+          "title": "How to Implement Dark Mode in Android Studio | DarkMode | Android Coding",
+          "publish_date": "2.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Hungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQC\n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "vR5IfqjX6dY",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/vR5IfqjX6dY/maxresdefault.jpg",
+          "title": "HTB Cyber Apocalypse - cURL As a Service",
+          "publish_date": "6.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Welcome to the series finale (probably) of the Bootleg Office Saga! I was recently sent a genuine copy of Office 2010 by a viewer, and today we're going to use it to compare with the 2 bootlegs.",
+          "video_code": "rTM6dDiFS88",
+          "author": "Michael MJD",
+          "thumbnail_url": "http://i.ytimg.com/vi/rTM6dDiFS88/maxresdefault.jpg",
+          "title": "The Bootleg Office Saga Finale - Comparing To A Real Copy + Product Key Status",
+          "publish_date": "3.5.2021"
+        },
+        {
+          "description": "Hidden Agenda - Full Game Gameplay Walkthrough (With Good / Best Ending)\n\nHidden Agenda is a new crime thriller from Supermassive Games and published by Sony Interactive Entertainment.\n\nThe story follows the hunt for the infamous \"Trapper\" killer. You play as two different characters throughout the story, Becky who is a detective and Felicity, who is a district attorney. The game is unique in the sense that it's a movie, but incorporates gameplay elements into it. This video is a full walkthrough of the game, with the good/best ending, no unnecessary commentary and on the PS4 Pro.\n\nYou will also not be using the regular PS4 controller to play this game, it's all done through PlayLink. PlayLink is a new way for family & friends to play games together together, as it uses smartphones and tablets as controllers.",
+          "video_code": "y9FtmpCu4QI",
+          "author": "HarryNinetyFour",
+          "thumbnail_url": "http://i.ytimg.com/vi/y9FtmpCu4QI/maxresdefault.jpg",
+          "title": "Hidden Agenda - Full Game Gameplay Walkthrough (With Good / Best Ending)",
+          "publish_date": "25.11.2017"
+        },
+        {
+          "description": "In this video, you will learn how to implement open source statements in Android Studio.\n\nTimestamps:\n00:00 - Intro\n03:25 - XML Code\n14:11 - Java Code\n28:32 - Output\n\nHere is the download link:\nhttps://finnplace.ml/android-dev-simplified\n\nCheck out my social media accounts:\nInstagram: https://www.instagram.com/jtg69_yt\nTwitter: https://twitter.com/JTG69_YT\nTikTok: https://www.tiktok.com/@jtg69_yt\nTwitch: https://www.twitch.tv/jtg69_yt\n\nNote! This is the first tutorial in this channel. This channel is dedicated to Android tutorials.",
           "video_code": "Q5Pz_PuHtlM",
           "author": "Android Dev Simplified",
           "thumbnail_url": "http://i.ytimg.com/vi/Q5Pz_PuHtlM/maxresdefault.jpg",
@@ -12,7 +188,7 @@
           "publish_date": "13.5.2021"
         },
         {
-          "description": "<p>In this video, you will learn how to implement settings in Android Studio.</p><p>Timestamps:</p> <p>00:00 - Intro</p> <p>01:48 - XML Code</p> <p>05:34 - Java Code</p> <p>41:22 - Output</p> <p>Check out my social media accounts:\nInstagram: <a href=\"https://www.instagram.com/jtg69_yt\">https://www.instagram.com/jtg69_yt</a></p> <p>Twitter: <a href=\"https://twitter.com/JTG69_YT\">https://twitter.com/JTG69_YT</a></p> <p>TikTok: <a href=\"https://www.tiktok.com/@jtg69_yt\">https://www.tiktok.com/@jtg69_yt</a></p> <p>Twitch: <a href=\"https://www.twitch.tv/jtg69_yt\">https://www.twitch.tv/jtg69_yt</a></p>",
+          "description": "In this video, you will learn how to implement settings in Android Studio.\n\nTimestamps:\n00:00 - Intro\n01:48 - XML Code\n05:34 - Java Code\n41:22 - Output\n\nCheck out my social media accounts:\nInstagram: https://www.instagram.com/jtg69_yt\nTwitter: https://twitter.com/JTG69_YT\nTikTok: https://www.tiktok.com/@jtg69_yt\nTwitch: https://www.twitch.tv/jtg69_yt",
           "video_code": "asFXj67ycis",
           "author": "Android Dev Simplified",
           "thumbnail_url": "http://i.ytimg.com/vi/asFXj67ycis/maxresdefault.jpg",
@@ -20,12 +196,108 @@
           "publish_date": "14.5.2021"
         },
         {
-          "description": "<p>Tässä videossa minä olen välillä macOS Big Sur -käyttöjärjestelmässä, jonka on tehnyt Apple.</p> <p>Sosiaaliset mediat:</p> <br /> <p>Facebook: <a href=\"https://www.facebook.com/JTG69YT\">https://www.facebook.com/JTG69YT</a></p> <p>Twitter: <a href=\"https://twitter.com/JTG69_YT\">https://twitter.com/JTG69_YT</a></p> <p>Instagram: <a href=\"https://www.instagram.com/jtg69_yt\">https://www.instagram.com/jtg69_yt</a></p> <p>Twitch:</p> <p><a href=\"https://www.twitch.tv/jtg69_yt\">https://www.twitch.tv/jtg69_yt</a></p>",
+          "description": "Moving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl\n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "WmCioU9F2_8",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/WmCioU9F2_8/maxresdefault.jpg",
+          "title": "SQLite Blind SQL Injection - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "10.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Moving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammonn\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "ySJwlMsFbco",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/ySJwlMsFbco/maxresdefault.jpg",
+          "title": "XML Object Exfiltration - HackTheBox Cyber Apocalypse CTF \"E. Tree\"",
+          "publish_date": "10.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon:\nhttps://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "7kmttmmlygc",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/7kmttmmlygc/maxresdefault.jpg",
+          "title": "Blind MongoDB NoSQL Injection - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "14.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "What is the longest comment on YouTube? In this video, I try to find the longest comment ever, as well as test to see what the comment length limit is on YouTube. What is the longest YouTube comment? Find out here...\n\n© 2021 Timeworks Studios",
+          "video_code": "PaXbKrRKmnk",
+          "author": "Timeworks",
+          "thumbnail_url": "http://i.ytimg.com/vi/PaXbKrRKmnk/maxresdefault.jpg",
+          "title": "What Is The LONGEST Comment On YouTube?",
+          "publish_date": "16.5.2021"
+        },
+        {
+          "description": "Moving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "NACzUg2z4aY",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/NACzUg2z4aY/maxresdefault.jpg",
+          "title": "IFrame Parent XSS - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "17.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "EVER WANNA HAVE \"FUN\" ALL THE TIME?! WELL WHAT'S STOPPING YOU!?\n\nSubscribe Today! ► http://bit.ly/Markiplier\n\nPlay The Game ► https://www.indiedb.com/games/nsfw-not-a-simulator-for-working\n\nFollow my Instagram ► http://instagram.com/markipliergram\nFollow me on Twitter ► https://twitter.com/markiplier\nLike me on Facebook ► https://www.facebook.com/markiplier\n\nHorror Outro ► (Sorry, this outro song is not available. ☹️)\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
+          "video_code": "cXYSlRwPfX0",
+          "author": "Markiplier",
+          "thumbnail_url": "http://i.ytimg.com/vi/cXYSlRwPfX0/maxresdefault.jpg",
+          "title": "I'M NOT TELLING YOU WHAT THE TITLE IS | N.S.F.W (Not a Simulator For Working)",
+          "publish_date": "15.9.2016"
+        },
+        {
+          "description": "Obligatory disclaimer to appease the vocal minority: this is NOT a Cloudflare (lowercase F) vuln, this is a CTF challenge showcasing a Content Security Policy bypass through Cloudflare (lowercase F again)'s CDN.\n\nMoving your first steps into hacking? Start from HTB Academy: https://bit.ly/3vuWp08\n\nHungry for more hacking training? Join Hack The Box now: https://bit.ly/331nQCl \n\nHang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "uU_tvQPCBUo",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/uU_tvQPCBUo/maxresdefault.jpg",
+          "title": "Cloudflare CDN CSP - XSS Bypass / HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "25.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "A4US4Az5nJE",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/A4US4Az5nJE/maxresdefault.jpg",
+          "title": "Nodejs Nunjucks Template Injection - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "26.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "zicT9PI_m1o",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/zicT9PI_m1o/maxresdefault.jpg",
+          "title": "Phishing Document \"Invitation\" - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "27.5.2021 (Ensiesitys)"
+        },
+        {
+          "description": "Hang with our community on Discord! https://johnhammond.org/discord\n\nIf you would like to support me, please like, comment & subscribe, and check me out on Patreon: https://patreon.com/johnhammond010\n\nE-mail: johnhammond010@gmail.com\nPayPal: http://paypal.me/johnhammond010\nGitHub: https://github.com/JohnHammond\nSite: http://www.johnhammond.org\nTwitter: https://twitter.com/_johnhammond",
+          "video_code": "3aCLFzCzPFI",
+          "author": "John Hammond",
+          "thumbnail_url": "http://i.ytimg.com/vi/3aCLFzCzPFI/maxresdefault.jpg",
+          "title": "PowerPoint Phishing Malware Analysis - HackTheBox Cyber Apocalypse CTF",
+          "publish_date": "1.6.2021 (Ensiesitys)"
+        },
+        {
+          "description": "There are plenty of use cases where people might need access to some specific windows apps, and running some of them on Linux can be a hassle. Wine has come a long way, but it still fails to run some of the most popular apps without a huge performance hit, like MS Office, or the Adobe Suite. Fortunately, there might be a solution to run these apps as if they were native to Linux.\n\nBecome a channel member to get access to a weekly patroncast and vote on the next topics I'll cover:\nhttps://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw/join\n\nSupport the channel on Patreon: \nhttps://www.patreon.com/thelinuxexperiment\n\nFollow me on Twitter : http://twitter.com/thelinuxEXP\n\nMy Gaming on Linux Channel: https://www.youtube.com/channel/UCaw_Lz7oifDb-PZCAcZ07kw\n\nFollow me on ODYSEE: https://odysee.com/@TheLinuxExperiment:e\nOr join ODYSEE: https://odysee.com/$/invite/@TheLinuxExperiment:e\n\nJoin us on Discord: https://discord.gg/nN8wwZPpwr\n\nThe Linux Experiment merch: get your goodies there! https://the-linux-experiment.creator-spring.com/\n\n## The Setup\n\nSet up the KVM machine: https://github.com/Fmstrat/winapps/blob/main/docs/KVM.md\nSet up Winapps: https://github.com/Fmstrat/winapps\n\nRun this to start libvirt: sudo systemctl start libvirtd\nRun this if the \"default network\" doesn't work for libvirt: sudo virsh net-start default\nAdd this to the ~/.local/bin/winapps script : export LIBVIRT_DEFAULT_URI=qemu:///system\n\nWinapps is a script that will let you access windows applications, running on a windows virtual machine, right from your Linux desktop. It integrates a number of applications in your menu, so you can launch them like any native linux app, and they'll show up as \"regular\" Linux applications, in their own window, you won't need to use them in the VM's dedicated window.\n\nI left the links to the install guides in the description below, they're going to be way more detailed than what I could fit in a 10 minute video.\n\nMy goal here is to try this out, see how well that works, and see if it's a viable alternative to other solutions, like dual booting.\n\nStill, just to sum up the steps, you have to create a KVM virtual machine using Virt Manager, edit a few parameters of the VM, add to it a second disk drive for the necessary drivers, install Windows 10 PRO on it, and then create a user account, install required drivers, add some registry entries through a file, rename the computer and enable RDP, and then install the apps you want to use inside of that VM.\n\nThen, you reboot the VM, and run a check to see if Winapps can connect to that virtual machine through that remote desktop protocol. Finally, you run the Winapps installer to detect the apps, and it will add them to your menu.\n\nSo, how does it run?\n\nWell, it's really kinda nice. I only gave 2CPU threads to the VM, and 1GB of RAM, with the ability to go up to 4Gb, and still, every app started blazingly fast.\n\nBy default, Winapps only autodetects a handful of applications, including the whole Adobe Creative Cloud suite, the whole MS office suite.\n\nIn use, the apps showed up in my dock, I could resize the windows, move them around, minimize them, and interact with them as if they were native, although they don't use your window manager to display their window borders.\n\nI could also copy paste text from my Linux desktop to the windows apps themselves. Winapps also seems to bind these applications to the right file types, so you can open a spreadsheet using Excel through Winapps, and it will work just fine, and you'll be able to save it in place, without any issues.\n\nI tried running Word, Excel, and powerpoint, which all worked great. All features are accessible, the interface is snappy and responsive, it just works exactly as it would in windows.\n\nI had to remove a small argument in the start command for outlook to work, but after that it launched and operated as intended, with a weird tendency to maximize itself even when I told it not to.\n\nI also installed adobe Creative cloud, with more mixed results.\nPhotoshop opened after a really long loading time, and it took even more time displaying anything and letting me create a new document. After that, it worked alright, although there was a noticeable delay when using a brush to draw my masterpiece on the screen.\n\nI'm pretty sure more advanced uses of this app, if they exist, will meet with a bit more friction and delays, but it's definitely usable once it's started.\n\nInDesign flat out refused to work, launching with a weird overlay on top of it, and never responding to any action I tried.\n\nIllustrator worked fine, I could open a blank template and play around with my incredible Illustrator skills. The \"New document\" window though, was trying to escape from my screen and not displaying anything apart from a cryptic title\n\nIn general, for the Adobe CC suite, it's a bit hit or miss.",
+          "video_code": "fzzf2QnyPgY",
+          "author": "The Linux Experiment",
+          "thumbnail_url": "http://i.ytimg.com/vi/fzzf2QnyPgY/maxresdefault.jpg",
+          "title": "This thing runs OFFICE and ADOBE APPS like they were \"NATIVE\"?",
+          "publish_date": "4.6.2021"
+        },
+        {
+          "description": "Tässä videossa minä olen välillä macOS Big Sur -käyttöjärjestelmässä, jonka on tehnyt Apple.\n\nSosiaaliset mediat:\n\nFacebook:\nhttps://www.facebook.com/JTG69YT\n\nTwitter:\nhttps://twitter.com/JTG69_YT\n\nInstagram:\nhttps://www.instagram.com/jtg69_yt\n\nTwitch:\nhttps://www.twitch.tv/jtg69_yt",
           "video_code": "t1UbMrwjIqc",
           "author": "JTG69_YT",
           "thumbnail_url": "http://i.ytimg.com/vi/t1UbMrwjIqc/maxresdefault.jpg",
           "title": "macOS Big Sur -sooloilua",
           "publish_date": "7.6.2021"
+        },
+        {
+          "description": "Welcome game developers to another episode of Firecasts. In this episode, Developer Advocate Patrick Martin will give a tutorial on how you can add Firestore to your Unity game.\n\nChapters:\n0:00 - Intro\n2:26 - Firestore Data Layout\n4:21 - Set Up Firebase\n7:10 - Write Data\n10:19 - Read Data\n15:03 - Wrap Up\n\nResources:\nChoose a database → https://goo.gle/37t4eJ9\nGetting Started video → https://goo.gle/3bparpN\nSecurity Rules → https://goo.gle/3iFPNsw\nLink (pricing) → https://goo.gle/3pU47zb\nLink (speed v reliability): https://goo.gle/3cEtPm4\n\nWatch more Firecasts for Firebase Developers → https://goo.gle/Firecasts\nSubscribe to Firebase → https://goo.gle/Firebase \n\n#Firecasts #Firebase #Unity",
+          "video_code": "b5h1bVGhuRk",
+          "author": "Firebase",
+          "thumbnail_url": "http://i.ytimg.com/vi/b5h1bVGhuRk/maxresdefault.jpg",
+          "title": "Adding Firestore to your Unity game - Firecasts",
+          "publish_date": "15.6.2021"
         }
       ]
     }
