@@ -1,0 +1,23 @@
+{
+    "categories": [
+        {
+            "name": "Playlists",
+            "playlists": [
+                {
+                    "description": "Tämä on minun laatimani soittolista.",
+                    "playlist_code": "PLKwaV0mBzBFLgoY_6Hf1O9QUGuNN6FCt9",
+                    "author": "JTG69_YT",
+                    "thumbnail_url": "https://i.ytimg.com/vi/t1UbMrwjIqc/hqdefault.jpg",
+                    "title": "Tietokoneet"
+                },
+                {
+                    "description": "Tämä on SmallAcademyn laatima soittolista.",
+                    "playlist_code": "PLlGT4GXi8_8eNrEO_RqTXFtAV4M4--b5J",
+                    "author": "SmallAcademy",
+                    "thumbnail_url": "https://i.ytimg.com/vi/DOjp_WhZRJU/hqdefault.jpg",
+                    "title": "Convert Wordpress Blog to Android App using JSON"
+                }
+            ]
+        }
+    ]
+}
