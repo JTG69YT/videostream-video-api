@@ -292,6 +292,14 @@
           "publish_date": "7.6.2021"
         },
         {
+          "description": "Tässä videossa minä asennan macOS Big Sur -käyttöjärjestelmän VMWareen, jonka on tehnyt Apple.\n\nTekstitiedosto, josta minä copy-pastasin:\nhttps://docs.google.com/document/d/1Ntj53ACSKLfSAH12oMs7Rd_554yB1MOIPmoJ7lxGoWw/edit?usp=sharing",
+          "video_code": "5IeUqLr7e10",
+          "author": "JTG69_YT",
+          "thumbnail_url": "http://i.ytimg.com/vi/5IeUqLr7e10/maxresdefault.jpg",
+          "title": "macOS Big Sur -asennus",
+          "publish_date": "25.6.2021"
+        },
+        {
           "description": "Welcome game developers to another episode of Firecasts. In this episode, Developer Advocate Patrick Martin will give a tutorial on how you can add Firestore to your Unity game.\n\nChapters:\n0:00 - Intro\n2:26 - Firestore Data Layout\n4:21 - Set Up Firebase\n7:10 - Write Data\n10:19 - Read Data\n15:03 - Wrap Up\n\nResources:\nChoose a database → https://goo.gle/37t4eJ9\nGetting Started video → https://goo.gle/3bparpN\nSecurity Rules → https://goo.gle/3iFPNsw\nLink (pricing) → https://goo.gle/3pU47zb\nLink (speed v reliability): https://goo.gle/3cEtPm4\n\nWatch more Firecasts for Firebase Developers → https://goo.gle/Firecasts\nSubscribe to Firebase → https://goo.gle/Firebase \n\n#Firecasts #Firebase #Unity",
           "video_code": "b5h1bVGhuRk",
           "author": "Firebase",
