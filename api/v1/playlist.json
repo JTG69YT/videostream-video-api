@@ -23,7 +23,14 @@
                     "author": "Iha Just Imus",
                     "thumbnail_url": "https://i.ytimg.com/vi/RHYv9ms4V0Q/maxresdefault.jpg",
                     "title": "Kaikki Iha Just Imus -videot"
-                }
+                },
+                {
+                    "description": "Tämä on EDMT Dev -nimisen kanavan laatima soittolista.",
+                    "playlist_code": "PLaoF-xhnnrRW4HZNwZZ6MS12aWn-m3nGd",
+                    "author": "EDMT Dev",
+                    "thumbnail_url": "https://i.ytimg.com/vi/2LqIR0XvZ7A/hqdefault.jpg",
+                    "title": "Kotlin Uber Clone"
+                },
             ]
         }
     ]
